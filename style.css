@@ -1,0 +1,18 @@
+.header{
+
+}
+.nav-bar{
+    display: flex;
+}
+.nav-bar > div {
+    padding: 10px;
+}
+.tab{
+    background: aqua;
+}
+.extra{
+    background: aliceblue;
+}
+#main-body{
+    display: flex;
+}
