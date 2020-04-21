@@ -1,3 +1,4 @@
+/* index.html */
 body{
     background-color: lightslategray;
 }
@@ -21,9 +22,13 @@ body{
 #main-body > div {
     padding: 10px;
 }
+#main-body > div >img{
+    max-width: 65%;
+    min-width: 200px;
+}
 
 
-
+/* images.html */
 .parent{
     background-color: aliceblue;
     display: grid;
@@ -33,9 +38,18 @@ body{
 .child{
     border: 2px solid black;
     background-color: dimgray;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    min-width: 300px;
 }
 .child1{
     grid-row: span 2;
+}
+.child1 > img{
+    justify-content: center;
+    align-items: center;
 }
 .child2{
 
@@ -46,6 +60,9 @@ body{
 .child4{
     grid-column: span 2;
     display: flex;
+}
+.child4 > div{
+    padding-left: 20px;
 }
 .child5{
 
@@ -59,7 +76,7 @@ body{
 }
 
 
-
+/* videos.html */
 .videos{
     background-color: aliceblue;
     margin: 20px;
@@ -69,24 +86,77 @@ body{
 .video{
     border: 2px solid black;
     background-color: dimgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .main-video{
     grid-column: span 3;
-
+}
+.v{
+    width: 75%;
+    height: auto;
+    padding: 20px;
+    min-width: 200px;
 }
 
 
+/* projects.html */
 .projects{
     background-color: aliceblue;
     margin: 20px;
     display: grid;
 }
 .project{
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 2.5fr;
     border: 2px solid black;
     background-color: dimgray;
 }
 .pic{
-    width: 400px;
+    margin: 10px;
+    min-width: 200px; /* here instead of picture */
+}
+.picture{
+    width: 100%;
     height: auto;
+    padding-right: 10px;
+}
+.text{
+    display: grid;
+}
+.text > h3, p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* others in common */
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.current{
+    background: aqua;
+}
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: red; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
 }

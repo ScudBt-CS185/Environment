@@ -2,32 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="830cd9da-be40-4b3c-bca1-5238ef403aaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/envPrtctn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/envSci.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hiking.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/magazine-unlock-01-2.3.3772-_2585B46F1308E466C5B2DA4841165D13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/magazine-unlock-01-2.3.3772-_8EE6B5FFE9A1BA80A75AD0D1AC3878F8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/magazine-unlock-01-2.3.3772-_D2D58BF0F68087A5BB393529389E7D41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/magazine-unlock-01-2.3.3842-_06A470F71DAF125F296C7F5583B1C66A.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/magazine-unlock-01-2.3.3842-_677A5EF0FDA3E216ED5BF2EA7762C73A.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/magazine-unlock-01-2.3.3842-_69285CC53A739C6C6D87397F136667CB.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/magazine-unlock-01-2.3.3842-_722FD56524A46E820F89A038BCB2572E.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/main.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videos/Pexels Videos 1448735.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videos/Pexels Videos 1580455.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videos/Pexels Videos 1620052.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videos/Pexels Videos 4631.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videos/Time Lapse Video Of Night Sky.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/envpro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/envsci.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hiking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ass3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ass4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/assassin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/assassin2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/images.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/envPrtctn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/envPrtctn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/envSci.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/envSci.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hiking.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/hiking.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos.html" beforeDir="false" afterPath="$PROJECT_DIR$/videos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +28,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -58,16 +48,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/videos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\19568\WebstormProjects\Assignment\videos" />
-      <recent name="C:\Users\19568\WebstormProjects\Assignment\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\19568\WebstormProjects\Assignment\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\19568\WebstormProjects\Assignment\images" />
+      <recent name="C:\Users\19568\WebstormProjects\Assignment\videos" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -86,6 +76,7 @@
       <workItem from="1586381466829" duration="149000" />
       <workItem from="1586381679803" duration="9060000" />
       <workItem from="1586408384839" duration="8720000" />
+      <workItem from="1587414586135" duration="19158000" />
     </task>
     <servers />
   </component>
@@ -93,10 +84,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="390" y="228" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586415302376">
+    <state x="390" y="228" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587445287846">
       <screen x="0" y="0" width="1333" height="849" />
     </state>
-    <state x="390" y="228" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1333.849@0.0.1333.849" timestamp="1586415302376" />
+    <state x="390" y="228" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1333.849@0.0.1333.849" timestamp="1587445287846" />
     <state x="449" y="180" key="FileChooserDialogImpl" timestamp="1586381563691">
       <screen x="0" y="0" width="1333" height="849" />
     </state>
