@@ -44,6 +44,9 @@ body{
     padding: 15px;
     min-width: 300px;
 }
+.child > img{
+    cursor: pointer;
+}
 .child1{
     grid-row: span 2;
 }
