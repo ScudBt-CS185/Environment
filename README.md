@@ -1,3 +1,4 @@
 # Assignment
 Huiyu Zhang is the author.  
-Improved weekly throughout the Spring 2020 Quarter.  
+Incrementally developed weekly throughout the Spring 2020 Quarter.  
+A website about the nature and environmental protection.
